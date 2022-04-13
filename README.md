@@ -1,7 +1,7 @@
 # IOStudy
 
 ## Swift Language
-* [The Basics](https://github.com/wodnd0518/IOStudy/blob/main/Swift%20Language/The%20Basics.md)
+* [The Things Good I know](https://github.com/wodnd0518/IOStudy/blob/main/Swift%20Language/The%20Basics.md)
 * [Basic Operators]
 * [Strings and Characters]
 * [Collection Types]

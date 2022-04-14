@@ -5,7 +5,7 @@
 * [기본 데이터 타입](https://github.com/wodnd0518/IOStudy/blob/main/Swift%20Language/%EA%B8%B0%EB%B3%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
 * [컬렉션 타입](https://github.com/wodnd0518/IOStudy/blob/main/Swift%20Language/%EC%BB%AC%EB%A0%89%EC%85%98%20%ED%83%80%EC%9E%85.md)
 * [열거형]
-* [함수]
+* [함수](https://github.com/wodnd0518/IOStudy/blob/main/Swift%20Language/%ED%95%A8%EC%88%98.md)
 * [클로져]
 * [조건문]
 * [반목문]
